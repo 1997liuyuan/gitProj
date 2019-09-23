@@ -11,15 +11,7 @@ h3 {
     text-align: center;
 }
 
-.box sapn {
+.box span {
     color: firebrick;
     font-size: 32px;
-}
-
-span {
-    color: peru;
-<<<<<<< HEAD
-    font-size: 32px;
-=======
->>>>>>> feature
 }
